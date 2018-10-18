@@ -1,0 +1,21 @@
+Server Name:
+307-84
+
+ip: 
+192.168.34.184  内网地址
+172.28.100.5	外网地址
+
+SQL - 配置SQLServer 使其可以远程访问
+https://www.cnblogs.com/mantian/p/3871665.html
+
+ 
+
+SQL Server字符串比较时区别大小写方法
+https://www.2cto.com/database/201208/147926.html
+
+
+1、查看本机网络连接属性：
+IPv4 地址: 192.168.34.184
+ 
+2、在SQL Server Configuration Manager--> SQL Server Network Configuration --> Protocols for SQL Server 中，查看TCP/IP属性。
+172.28.100.5
