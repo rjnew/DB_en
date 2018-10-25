@@ -2,12 +2,9 @@
 Database Principles
 
 example list:
-1.  description:   simulate query window of SQL Server Management Studio
-    code file:      SimQueryTool.rar
+1.  simulate query window of SQL Server Management Studio==>  SimQueryTool.rar
    
-2.  description:   website of user login
-    code file:      LoginSample.rar
-    DATA file:      LoginDB_CaseSensor.rar
+2.  website of user login==> LoginSample.rar(code_file) LoginDB_CaseSensor.rar(db_file)
     
-3.  sample of DropDownList:  DDListDemo.rar
+3.  sample of DropDownList==>  DDListDemo.rar
 
