@@ -7,7 +7,7 @@ ADO.NET Overview
 https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview
 
 
-Other examples list:
+Other examples:
 
 1.  simulate data query ==>  SimQueryTool.rar
    
