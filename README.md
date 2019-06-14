@@ -1,6 +1,11 @@
 # DB_en
 Database Principles
 
+
+ADO.NET Overview
+https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview
+
+
 example list:
 1.  simulate data query ==>  SimQueryTool.rar
    
