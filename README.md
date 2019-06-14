@@ -7,7 +7,8 @@ ADO.NET Overview
 https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview
 
 
-example list:
+Other examples list:
+
 1.  simulate data query ==>  SimQueryTool.rar
    
 2.  website of user login ==> LoginSample.rar(code_file) LoginDB_CaseSensor.rar(db_file)
